@@ -1,0 +1,2 @@
+We can convert int to String in java using String.valueOf() and Integer.toString() methods. 
+Alternatively, we can use String.format() method, string concatenation operator etc.
