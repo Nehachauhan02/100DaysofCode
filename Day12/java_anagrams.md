@@ -22,9 +22,11 @@ Sample Input 0
 
 anagram
 margana
+
 Sample Output 0
 
 Anagrams
+
 Explanation 0
 
 Character	Frequency: anagram	Frequency: margana
@@ -39,6 +41,7 @@ Sample Input 1
 
 anagramm
 marganaa
+
 Sample Output 1
 
 Not Anagrams
@@ -56,9 +59,11 @@ Sample Input 2
 
 Hello
 hello
+
 Sample Output 2
 
 Anagrams
+
 Explanation 2
 
 Character	Frequency: Hello	Frequency: hello
