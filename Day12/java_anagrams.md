@@ -45,6 +45,7 @@ marganaa
 Sample Output 1
 
 Not Anagrams
+
 Explanation 1
 
 Character	Frequency: anagramm	Frequency: marganaa
