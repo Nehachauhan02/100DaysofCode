@@ -1,5 +1,26 @@
-/*Two strings, a and b , are called anagrams if they contain all the same characters in the same frequencies. For this challenge, the test is not case-sensitive.
-For example, the anagrams of CAT are CAT, ACT, tac, TCA, aTC, and CtA.*/
+/*
+In this program i have taken two string & checked whether the given string is anagram or not & took input from the user.
+Two string are anagram of each other when there will be same number of character present in them & also they are repeating for the same number of time.
+Ande also both the string should be in same upper or lower case.
+Sample input:
+Test case 1
+anagram
+margana
+Sample output:
+Anagrams
+Sample input:
+Test case 2
+anagramm
+marganaa
+Sample output:
+Not Anagrams
+Sample input:
+Test case 3
+Hello
+hello
+Sample output:
+Anagrams
+*/
 import java.util.Scanner;
 
 public class Solution {
