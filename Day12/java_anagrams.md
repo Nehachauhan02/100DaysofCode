@@ -8,6 +8,7 @@ Complete the isAnagram function in the editor.
 isAnagram has the following parameters:
 
 string a: the first string
+
 string b: the second string
 Returns
 
