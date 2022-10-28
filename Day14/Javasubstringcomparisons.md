@@ -25,6 +25,6 @@ The second line contains an integer denoting .
 
 Constraints
 
- consists of English alphabetic letters only (i.e., [a-zA-Z]).
+consists of English alphabetic letters only (i.e., [a-zA-Z]).
  
 Sample Input 0
