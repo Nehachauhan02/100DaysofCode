@@ -17,6 +17,7 @@ int k: the length of the substrings to find
 Returns
 
 string: the string ' + "\n" + ' where and are the two substrings
+
 Input Format
 
 The first line contains a string denoting .
@@ -25,4 +26,5 @@ The second line contains an integer denoting .
 Constraints
 
  consists of English alphabetic letters only (i.e., [a-zA-Z]).
+ 
 Sample Input 0
